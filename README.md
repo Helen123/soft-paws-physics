@@ -6,7 +6,15 @@ This repository contains the technical core behind [Soft Paws](https://cats.tryd
 
 **[Play the complete game](https://cats.trydoq.com/)** · **[Browse the simulation](dist/physics.js)** · **[Explore mesh deformation](dist/warp.js)**
 
-> This is a focused source-code repository with runnable tests, not the complete browser application. Photographic cats, sound recordings, environment artwork, account services and production configuration are not included. The game link requires email verification and provides five free new rounds per Pacific calendar day.
+> This is a focused source-code repository with runnable tests, not the complete browser application. Apart from the rendered gameplay demo below, source cat photos, sound recordings, environment artwork, account services and production configuration are not included. The game link requires email verification and provides five free new rounds per Pacific calendar day.
+
+## Gameplay demo
+
+[![Soft Paws gameplay: a new cat drops, triggers a chain of merges and frees up space](docs/media/soft-paws-demo.gif)](https://github.com/Helen123/soft-paws-physics/blob/main/docs/media/soft-paws-demo.mp4)
+
+**[Watch the full 27-second video](https://github.com/Helen123/soft-paws-physics/blob/main/docs/media/soft-paws-demo.mp4)** · [Play Soft Paws](https://cats.trydoq.com/)
+
+*The animated preview shows the chain-merge sequence. The full video also shows squishy collisions, stretching cats and both cat groups in the basket and drawer scenes.*
 
 ## Why this exists
 
