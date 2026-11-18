@@ -1,0 +1,13 @@
+{
+  "name": "soft-paws-physics",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22.5.0"
+  },
+  "scripts": {
+    "test": "node --test tests/*.test.js"
+  },
+  "description": "Particle-ring soft-body physics, silhouette geometry and image-mesh deformation from Soft Paws.",
+  "license": "UNLICENSED"
+}
