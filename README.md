@@ -10,11 +10,11 @@ This repository contains the technical core behind [Soft Paws](https://cats.tryd
 
 ## Gameplay demo
 
-[![Soft Paws gameplay: a new cat drops, triggers a chain of merges and frees up space](docs/media/soft-paws-demo.gif)](https://github.com/Helen123/soft-paws-physics/blob/main/docs/media/soft-paws-demo.mp4)
+[![Soft Paws opening: squishy cats trigger a chain of merges](docs/media/soft-paws-demo.gif)](https://github.com/Helen123/soft-paws-physics/blob/main/docs/media/soft-paws-demo.mp4)
 
 **[Watch the full 27-second video](https://github.com/Helen123/soft-paws-physics/blob/main/docs/media/soft-paws-demo.mp4)** · [Play Soft Paws](https://cats.trydoq.com/)
 
-*The animated preview shows the chain-merge sequence. The full video also shows squishy collisions, stretching cats and both cat groups in the basket and drawer scenes.*
+*The animated preview shows the opening 2.5 seconds of the video. The full video also shows squishy collisions, stretching cats and both cat groups in the basket and drawer scenes.*
 
 ## Why this exists
 
